@@ -6,7 +6,7 @@ git clone https://github.com/jarunwang/orion-JarunWang.git
 cd orion-JarunWang
 meteor
 
-
+```
 # Meteor packages used by this project, one per line.
 # Check this file (and the other files in this directory) into your repository.
 #
@@ -77,3 +77,4 @@ msavin:mongol
 ## Export
 nicolaslopezj:orion-exporter 
 nicolaslopezj:roles
+```
