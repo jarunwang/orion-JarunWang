@@ -1,12 +1,12 @@
 # orion-JarunWang
 
-<h1>使用方法</h1>
+<h3>使用方法</h3>
 
 git clone https://github.com/jarunwang/orion-JarunWang.git <br>
 cd orion-JarunWang<br>
 meteor
 
-<h1>需要加载的包</h1>
+<h3>需要加载的包</h3>
 ```
 # Meteor packages used by this project, one per line.
 # Check this file (and the other files in this directory) into your repository.
